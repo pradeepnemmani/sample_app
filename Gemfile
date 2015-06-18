@@ -6,7 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 group :development do
 gem 'sqlite3', '1.3.5'
-gem 'rspec-rails', '2.0.0.beta.18'
+#gem 'rspec-rails', '2.0.0.beta.18'
 end
 
 # Gems used only for assets and not required
@@ -27,7 +27,7 @@ gem 'jquery-rails', '2.0.1'
 
 group :test do
 	#gem 'capybara', '1.1.2'
-	gem 'rspec-rails', '2.0.0.beta.18'
+	#gem 'rspec-rails', '2.0.0.beta.18'
 end
 
 #group :production do
